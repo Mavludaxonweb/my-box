@@ -1,0 +1,66 @@
+/* header star */
+.header {
+    display: inline-block;
+}
+.logo {
+
+}
+.nav-list {
+    display: inline-block;
+    list-style-type: none;
+}
+.nav-item {
+    display: inline-block;
+}
+.nav-link {
+    font-size: 18px;
+    text-decoration: none;
+    color: #5c5b5f;
+}
+.active {
+    color: #000;
+}
+/* header end */
+
+/* main star */
+.main {
+    width: 1000px;
+    height: 700px;
+}
+/* main-one star */
+.main-one {
+    display: inline-block;
+    width: 250px;
+    height: 198px;
+}
+.heading {
+    font-weight: 700;
+    font-size: 48px;
+    color: #000000;
+}
+.text {
+    font-weight: 300;
+    font-size: 21px;
+    color: #7D7987;
+}
+.btn {
+    font-weight: 700;
+    font-size: 18px;
+    color: #FFFFFF;
+    background: #458FF6;
+    border-radius: 55px;
+    width:200px;
+    height:56px;
+}
+/* main-one end */
+
+/* main-two star */
+.main-two {
+    display: inline-block;
+}
+.illustration {
+    display: inline-block;
+    width: 450px;
+    height: 598px;
+}
+/* main-two end */
